@@ -2,6 +2,7 @@
 Accident prediction for a global food delivery app using forecasting
 
 Disclaimer: All the information presented in the following text is anonomysed and created synthetically. The same applies to the “Dummy data” file.
+[Dummy data.xlsx](https://github.com/mmudgal82/Accident-Prediction/files/6721781/Dummy.data.xlsx)
 
 Business Problem
 The CEO of Yemeksepeti, in Turkey, is worried about accidents involving riders, during their
